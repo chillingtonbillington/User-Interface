@@ -64,3 +64,109 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+main{
+	max-width:880px;
+	margin: 0 auto;
+}
+nav{
+	display:inline-block;
+	width:700px;
+	
+}
+.logo{
+	display:inline-block;
+	width:140px;
+	float:right;
+	margin: 0px 15px 0px 0px;
+}
+
+nav a {
+	text-decoration:none;
+	text-align:center;
+	color:grey;
+	display:inline-block;
+	width:70px;
+	margin:10px 20px;
+
+	
+}
+h1{
+	font-size:64px;
+	display:inline-block;
+	width:500px;
+	text-align:center;
+
+}
+#gs{
+	text-align:center;
+	width:100%;
+	font-size:14px;
+	margin: 30px auto;
+	text-align:center;
+	
+	
+}
+
+#main-title-section {
+	display: inline-block;
+	margin:0px 10px 50px 10px;
+}
+h3{
+	width:150px;
+	height:35px;
+	border:1px solid black;
+	display:inline-block;
+	text-align:center;
+	padding: 10px 0px;
+	font-family:verdana, monospace;
+	
+}
+
+	#circlepic{
+	display:inline-block;
+	width:300px;
+	margin:70px 0px 0px 0px;
+}	
+
+h2{
+	font-size:24px;
+}
+.middle-img{
+	margin:0px 8px;
+}
+.links{
+	display:inline-block;
+	width:200px;
+	
+}
+
+ #about{
+	width:380px;
+	padding:20px;
+	margin:10px px 25px 10px;
+
+}
+#features{
+	width:380px;
+	padding:20px;
+	margin:10px 50px 10px 10px;
+}
+#services, #product, #vision{
+
+	margin:30px 25px;
+	width:240px; 
+}
+#p2, #p3, #p4{
+	padding:10px, 0px, 10px, 0px;
+	width:260px;
+}
+address{
+	margin:30px 0px;
+}
+h5{
+	margin:70px auto;
+	text-align:center;
+	font-family:verdana;
+	font-size:10px;
+
+}
